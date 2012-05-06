@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bands</key>
+	<array>
+		<integer>0</integer>
+		<integer>1</integer>
+		<array>
+			<real>132</real>
+			<real>284</real>
+		</array>
+		<integer>1</integer>
+		<integer>2</integer>
+		<array>
+			<real>526</real>
+			<real>472</real>
+		</array>
+		<integer>1</integer>
+		<integer>3</integer>
+		<array>
+			<real>366</real>
+			<real>680</real>
+		</array>
+	</array>
+	<key>maxDist</key>
+	<real>800</real>
+	<key>pois</key>
+	<array>
+		<array>
+			<real>100</real>
+			<real>86</real>
+		</array>
+		<integer>0</integer>
+		<array>
+			<real>300</real>
+			<real>452</real>
+		</array>
+		<integer>2</integer>
+		<array>
+			<real>652</real>
+			<real>382</real>
+		</array>
+		<integer>3</integer>
+		<array>
+			<real>316</real>
+			<real>858</real>
+		</array>
+		<integer>4</integer>
+	</array>
+</dict>
+</plist>
